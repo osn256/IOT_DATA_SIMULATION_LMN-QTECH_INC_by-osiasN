@@ -1,0 +1,10 @@
+#RUNNING JUPYTER
+1   jupyter notebook
+2   Create new file using ipykernel
+3   and and Generate code
+4   Open and Format Code
+
+
+
+
+
